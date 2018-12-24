@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>images/piece_0.png</file>
+        <file>images/piece_1.png</file>
+        <file>images/piece_2.png</file>
+        <file>images/piece_3.png</file>
+        <file>images/piece_4.png</file>
+        <file>images/piece_5.png</file>
+        <file>images/piece_6.png</file>
+        <file>images/piece_7.png</file>
+        <file>images/square_-2.png</file>
+        <file>images/square_0.png</file>
+        <file>images/square_1.png</file>
+        <file>images/square_2.png</file>
+        <file>images/square_3.png</file>
+        <file>images/square_4.png</file>
+        <file>images/square_5.png</file>
+        <file>images/square_6.png</file>
+        <file>images/square_7.png</file>
+        <file>images/mainwindow_bg.png</file>
+    </qresource>
+</RCC>
