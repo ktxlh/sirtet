@@ -9,4 +9,4 @@ HSU, Shang Ling
 HUANG, Yi Feng
 LEE, Pin Hung
 ```
-Details are to be edited.
+The documentation is written [here](https://drive.google.com/file/d/1kGutmrSgrtaK6aHmYOVynwpOzbv-_EFj/view?usp=sharing).
