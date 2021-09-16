@@ -1,5 +1,8 @@
 # sirtet
 A QT Tetris with the AI functionality.
+
+The documentation is written [here](https://drive.google.com/file/d/1kGutmrSgrtaK6aHmYOVynwpOzbv-_EFj/view?usp=sharing).
+
 ```
 Gp. H04, COMP 2012H, HKUST, Fall 2018-19
 ```
@@ -9,4 +12,3 @@ HSU, Shang Ling
 HUANG, Yi Feng
 LEE, Pin Hung
 ```
-The documentation is written [here](https://drive.google.com/file/d/1kGutmrSgrtaK6aHmYOVynwpOzbv-_EFj/view?usp=sharing).
