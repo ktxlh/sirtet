@@ -1,5 +1,5 @@
 # sirtet
-A QT Tetris with the AI functionality.
+A QT Tetris with a genetic-algorithm-based AI player.
 
 The documentation is written [here](https://drive.google.com/file/d/1kGutmrSgrtaK6aHmYOVynwpOzbv-_EFj/view?usp=sharing).
 
